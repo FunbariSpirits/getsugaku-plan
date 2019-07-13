@@ -1,7 +1,7 @@
 ---
 title: "HUGOでブログをつくってGitHub Pagesのプロジェクトページで公開するまでの手順"
 date: 2019-07-11T23:40:02+09:00
-draft: true
+draft: false
 ---
 
 この記事の環境は64bit Windows10 Homeです。

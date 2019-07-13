@@ -5,9 +5,24 @@
     <link>https://example.com/</link>
     <description>Recent content on 最新の月額プラン</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Jul 2019 23:40:02 +0900</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HUGOでブログをつくってGitHub Pagesのプロジェクトページで公開するまでの手順</title>
+      <link>https://example.com/posts/hugo-san/</link>
+      <pubDate>Thu, 11 Jul 2019 23:40:02 +0900</pubDate>
+      
+      <guid>https://example.com/posts/hugo-san/</guid>
+      <description> この記事の環境は64bit Windows10 Homeです。
+HUGOのインストール  https://github.com/gohugoio/hugo/releasesから環境にあった最新版をダウンロードしてくる
+ 適当な場所にフォルダを作る(C:\hugoなど)
+ 下位にbinフォルダを作る
+ 先ほどダウンロードしてきたファイルを解凍し、中身をbinフォルダに入れる  C:\Hugo\bin にパスを通す
+ スタートボタンを右クリック＞システム 関連設定＞システム情報  左側のシステム詳細設定＞右下の環境変数  下側のシステム環境変数から&amp;rdquo;Path&amp;rdquo;を探し、ダブルクリック 右側の新規をクリック、C:\Hugo\bin を入力し、OK    </description>
+    </item>
     
   </channel>
 </rss>
